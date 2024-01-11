@@ -1,3 +1,5 @@
+//Java program for finding maximum and minimum element in an array
+
 import java.util.Scanner;
 
 public class MinMaxElement {
