@@ -19,8 +19,7 @@ public class MinMaxElement {
             System.out.print("Element " + (i + 1) + ": ");
             array[i] = scanner.nextInt();
         }
-
-        // Close the Scanner after input
+        
         scanner.close();
 
         // Initialize min and max with the first element of the array
